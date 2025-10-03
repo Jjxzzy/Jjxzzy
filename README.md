@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jjxzzy
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Jazuel!
+- 👀 I’m interested in ... recreating websites.
 - 🌱 I’m currently learning ... Coding
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... any projects that are available.
 - 📫 How to reach me ... 
 
 <!---
